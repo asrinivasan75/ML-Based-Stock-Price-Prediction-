@@ -1,10 +1,10 @@
 # Stock Price Prediction Using Machine Learning Models
 
-This project aims to predict the next-day closing prices of stocks based on historical data and technical indicators, using machine learning models. It leverages Python libraries such as `yfinance` for data collection, and `scikit-learn` for model training and evaluation.
+This project aims to predict the next-day closing prices of stocks based on historical data and technical indicators, using machine learning models. It used Python library yfinance for data collection and sklearn for model training and evaluation.
 
 ## Project Overview
 
-Predicting stock prices is challenging due to market volatility and non-linear patterns. In this project, we implemented and compared three machine learning models: Linear Regression, Random Forest Regressor, and Support Vector Regressor (SVR), to see which is best suited for predicting next-day prices.
+In this project, I implemented and compared three machine learning models: Linear Regression, Random Forest Regressor, and Support Vector Regressor (SVR), to see which is best suited for predicting next-day prices.
 
 ### Data Collection
 
