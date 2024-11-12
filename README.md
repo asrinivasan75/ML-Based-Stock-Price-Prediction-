@@ -38,4 +38,4 @@ The **Random Forest Regressor** performed best, capturing more variance in the s
 
 ## Conclusion
 
-Random Forest is recommended for stock price prediction in this setup, as it balances both interpretability and performance. Future exploration could involve trying other models, like Gradient Boosting or neural networks, for potentially improved accuracy.
+Random Forest performed the best in this setup. Future plans to use neural network models to potentially boost accuracy.
