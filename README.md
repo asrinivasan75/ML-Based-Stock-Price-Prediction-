@@ -72,8 +72,3 @@ The `ProjectDemo.ipynb` notebook offers the following capabilities:
    - Interactive plots for historical trends and model predictions.
 
 ---
-
-## **How to Use**
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
